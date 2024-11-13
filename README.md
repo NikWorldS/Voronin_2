@@ -5,3 +5,4 @@ project for programming labs
 ###### спец. символы .md
 [x] - task 1
 [ ] - task 2
+> [!NOTE] просто проверка
